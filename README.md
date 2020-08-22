@@ -1,2 +1,2 @@
-# martinandvic5.guthub.io
+# martinandvic5.github.io
 digiri demopage
